@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: cyan;
+    background-color: beige;
+    line-height: 80px;
+    font-size: 40px;
+text-shadow: 4px 6px 4px blueviolet;
+}
+h1:hover{
+    background-color: brown;
+}
+
+p{
+    font-weight: bolder;
+    font-style: italic;
+}
+h2{
+    text-decoration: underline;
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+
+img:hover{
+    opacity: 0.8;
+
+}
+
+
+
+

@@ -1,0 +1,58 @@
+#mish{
+    text-align: center;
+    background-color: blueviolet;
+    line-height: 80px;
+    color: chocolate;
+}
+.one{
+    font-weight: bold;
+    font-family: AnjaliOldLipi;
+
+}
+#team{
+    background-color: #436583;
+    margin: 40px;
+    padding: 30px;
+    color: brown;
+    border-radius: 20px;
+}
+#team:hover{
+    background-color: #06ec9e;
+
+}
+
+#product{
+    display: flex;
+    margin: 20px;
+}
+#image{
+    margin-right: 30px;
+    border-radius: 200px;
+}
+#two{
+    display: flex;
+}
+
+#main{
+    display: flex;
+}
+.myimage{
+    width: 50%;
+height:100px;
+}
+
+.sub{
+    text-align: center;
+    margin-left: 20px;
+}
+.sub h2{
+    color: #06f1f1;
+}
+
+.sub button{
+    background-color: blue;
+    padding: 20px;
+    color: cornsilk;
+    border-radius: 200px;
+}
+
